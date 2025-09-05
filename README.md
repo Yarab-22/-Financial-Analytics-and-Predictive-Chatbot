@@ -1,4 +1,4 @@
-# 💹 AI-Powered Financial Data Analysis & Chatbot
+# 💹 Finance Data Analysis & AI Chatbot
 
 This project combines **machine learning** and an **AI-powered chatbot** to provide insights from boutique finance data.  
 It demonstrates end-to-end data analysis, predictive modeling, and a natural language interface for querying financial databases.
