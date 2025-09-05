@@ -39,7 +39,7 @@ It demonstrates end-to-end data analysis, predictive modeling, and a natural lan
 - Enabled interactive chatbot with conversational answers.  
 - Robust pipeline for both **analytics and decision-making**.
 
-- <img width="1661" height="127" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/39f3832c-2298-4738-904f-f2125a43a857" />
+<img width="1661" height="127" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/39f3832c-2298-4738-904f-f2125a43a857" />
  
 <img width="723" height="95" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/ef70f8df-0489-4a99-b44c-0524acb69a35" />
 
